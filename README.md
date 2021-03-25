@@ -3,6 +3,18 @@
 <!--
 **yixiangchee/yixiangchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<br />
+<br />
+
+- 😄 Pronouns: He / Him
+- 🏠 I'm based in: Malaysia / Melbourne 🇲🇾 🇦🇺
+- 🌱 I’m currently studying Data Science at the University of Melbourne
+- ⚡ Things I enjoy: Film Photography (35mm), Travelling, Video Editing, Watching Netflix
+- 📺 Currently watching: Brooklyn Nine Nine, Modern Family, Friends
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
