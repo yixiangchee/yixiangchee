@@ -9,6 +9,7 @@
 - 😄 Pronouns: He / Him
 - 🏠 I'm based in: Malaysia / Melbourne 🇲🇾 🇦🇺
 - 🌱 I’m currently studying Data Science at the University of Melbourne
+- 🌏 I speak: English / Chinese / Malay / German 🇬🇧 🇨🇳 🇲🇾 🇩🇪
 - ⚡ Things I enjoy: Film Photography (35mm), Travelling, Video Editing, Watching Netflix
 - 📺 Currently watching: Brooklyn Nine Nine, Modern Family, Friends
 
