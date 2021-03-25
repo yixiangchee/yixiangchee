@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there, I'm CHEE! 👋
 
 <!--
 **yixiangchee/yixiangchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<br />
 <br />
 
 - 😄 Pronouns: He / Him
@@ -13,6 +12,7 @@
 - ⚡ Things I enjoy: Film Photography (35mm), Travelling, Video Editing, Watching Netflix
 - 📺 Currently watching: Brooklyn Nine Nine, Modern Family, Friends
 
+<br />
 
 
 Here are some ideas to get you started:
