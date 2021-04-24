@@ -8,13 +8,16 @@
 
 - 😄 Pronouns: He / Him
 - 🏠 I'm based in: Malaysia / Melbourne 🇲🇾 🇦🇺
-- 🌱 I’m currently studying Data Science at the University of Melbourne
+- 🌱 I’m currently studying: Data Science at the University of Melbourne
 - 🌏 I speak: English / Chinese / Malay / German 🇬🇧 🇨🇳 🇲🇾 🇩🇪
 - ⚡ Things I enjoy: Film Photography (35mm), Travelling, Video Editing, Watching Netflix
 - 📺 Currently watching: Brooklyn Nine Nine, Modern Family, Friends
   
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixiangchee&show_icons=true&theme=radical)
 
+## Check out some of my university works!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/yixiangchee/COMP20008-Data-Linkage)
 <!--
+
 **yixiangchee/yixiangchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
