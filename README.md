@@ -12,8 +12,9 @@
 - 🌏 I speak: English / Chinese / Malay / German 🇬🇧 🇨🇳 🇲🇾 🇩🇪
 - ⚡ Things I enjoy: Film Photography (35mm), Travelling, Video Editing, Watching Netflix
 - 📺 Currently watching: Brooklyn Nine Nine, Modern Family, Friends
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixiangchee)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixiangchee&show_icons=true&theme=radical)
 
 <!--
 **yixiangchee/yixiangchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
