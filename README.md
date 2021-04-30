@@ -18,11 +18,11 @@
 
 ## Check out some of my projects!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Data-Linkage)](https://github.com/yixiangchee/COMP20008-Data-Linkage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=profile-card)](https://github.com/yixiangchee/profile-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Data-Linkage&theme=radical)](https://github.com/yixiangchee/COMP20008-Data-Linkage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=profile-card&theme=radical)](https://github.com/yixiangchee/profile-card)
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixiangchee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixiangchee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 **yixiangchee/yixiangchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
