@@ -22,7 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=profile-card)](https://github.com/yixiangchee/profile-card)
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixiangchee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixiangche&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 **yixiangchee/yixiangchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
