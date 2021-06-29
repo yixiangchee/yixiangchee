@@ -19,7 +19,7 @@
 ## Check out some of my projects!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Data-Linkage&theme=radical)](https://github.com/yixiangchee/COMP20008-Data-Linkage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Data-Linkage&theme=radical)](https://github.com/yixiangchee/COMP20008-Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Classification&theme=radical)](https://github.com/yixiangchee/COMP20008-Classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=profile-card&theme=radical)](https://github.com/yixiangchee/profile-card)
 
  
