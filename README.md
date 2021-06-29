@@ -27,6 +27,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yixiangchee&show_icons=true)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?yixiangchee" frameborder="0"></iframe>
+
 <!--
 
 **yixiangchee/yixiangchee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
