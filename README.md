@@ -20,8 +20,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Data-Linkage&theme=radical)](https://github.com/yixiangchee/COMP20008-Data-Linkage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Classification&theme=radical)](https://github.com/yixiangchee/COMP20008-Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20007-Assignment-2&theme=radical)](https://github.com/yixiangchee/COMP20007-Assignment-2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=profile-card&theme=radical)](https://github.com/yixiangchee/profile-card)
-
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yixiangchee&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
