@@ -1,8 +1,5 @@
 ### Hi there, I'm CHEE! 👋
 
-
-
-
 <br />
 <br />
 
