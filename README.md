@@ -8,7 +8,7 @@
 - 🌱 I’m currently studying: Data Science at the University of Melbourne
 - 🌏 I speak: English / Chinese / Malay / German 🇬🇧 🇨🇳 🇲🇾 🇩🇪
 - ⚡ Things I enjoy: Film Photography (35mm), Travelling, Video Editing, Watching Netflix
-- 📃 View my CV
+- 📃 View my ![CV](/Yi_Xiang_Chee_Resume.docx)
 - <img src="https://beloservice.files.wordpress.com/2016/03/herrmans-linkedin-logo-500x500.png" 
 width="15" height="15"/> View my <a href="https://www.linkedin.com/in/yixiangchee/"> LinkedIn Profile</a>
 
