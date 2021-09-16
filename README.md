@@ -11,7 +11,7 @@
 - 📃 My [resume:](/YiXiang_Chee_Resume.pdf)
 - <img src="https://beloservice.files.wordpress.com/2016/03/herrmans-linkedin-logo-500x500.png" 
 width="15" height="15"/> My <a href="https://www.linkedin.com/in/yixiangchee/"> LinkedIn profile</a>
-- 👨🏻‍💻 My [website:](www.yixiangchee.github.io) (a work in progress)
+- 👨🏻‍💻 My <a href="www.yixiangchee.github.io"> website:</a> (a work in progress)
 
 
 
