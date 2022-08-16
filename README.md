@@ -3,11 +3,9 @@
 <br />
 <br />
 
-- 🙎🏻‍♂️ Pronouns: He / Him
-- 🏙 I'm based in: Malaysia / Melbourne 🇲🇾 🇦🇺
+- 🙎🏻‍♂️ He / Him
+- 🏙 I'm based in: Melbourne 🇦🇺
 - 🌱 I’m currently studying: Data Science at the University of Melbourne
-- 🌏 I speak: English / Chinese / Malay / German 🇬🇧 🇨🇳 🇲🇾 🇩🇪
-- ⚡ Things I enjoy: Film Photography (35mm), Travelling, Video Editing, Watching Netflix
 - 📃 My [resume:](/YiXiang_Chee_Resume.pdf)
 - <img src="https://beloservice.files.wordpress.com/2016/03/herrmans-linkedin-logo-500x500.png" 
 width="15" height="15"/> My <a href="https://www.linkedin.com/in/yixiangchee/"> LinkedIn profile</a>
