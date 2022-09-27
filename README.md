@@ -15,10 +15,11 @@ width="15" height="15"/> My <a href="https://www.linkedin.com/in/yixiangchee/"> 
 
 ## Check out some of my projects!
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=MAST30034-Manhattan-Rideshare-Analysis)](https://github.com/yixiangchee/MAST30034-Manhattan-Rideshare-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Data-Linkage)](https://github.com/yixiangchee/COMP20008-Data-Linkage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20008-Classification)](https://github.com/yixiangchee/COMP20008-Classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=COMP20007-Assignment-2)](https://github.com/yixiangchee/COMP20007-Assignment-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yixiangchee&repo=profile-card)](https://github.com/yixiangchee/profile-card)
+
 
 ___
 
